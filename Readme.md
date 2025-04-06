@@ -44,7 +44,7 @@
 - <500ms API response (cached)  
 - Zero-downtime deployments
 
-![CloudWatch Metrics]([/docs/performance-metrics.png](https://github.com/arfath29/medusa-project/blob/main/Screenshots/Screenshot_5-4-2025_233550_ap-south-1.console.aws.amazon.com.jpeg))  
+![CloudWatch Metrics]([/docs/performance-metrics.png](https://github.com/arfath29/medusa-project/blob/main/Screenshots/Screenshot_5-4-2025_233550_ap-south-1.console.aws.amazon.com.jpegraw=true))  
 *Response time and scaling metrics*
 
 ---
