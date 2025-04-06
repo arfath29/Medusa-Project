@@ -34,8 +34,6 @@
 2. **Admin Dashboard** manages products/orders
 3. **AWS Infrastructure** handles scaling
 
-![Medusa Admin Preview](/docs/admin-screenshot.png)  
-*Product management interface*
 
 ---
 
