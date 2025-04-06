@@ -1,6 +1,6 @@
 # Medusa Headless Commerce on AWS ECS
 
-![Medusa ECS Architecture](/docs/architecture-diagram.png)  
+![Architecture](https://github.com/arfath29/medusa-project/blob/main/Screenshots/Deployed%20Screenshot.png?raw=true)   
 *Production-ready headless commerce infrastructure*
 
 ---
@@ -44,7 +44,7 @@
 - <500ms API response (cached)  
 - Zero-downtime deployments
 
-![CloudWatch Metrics](/docs/performance-metrics.png)  
+![CloudWatch Metrics]([/docs/performance-metrics.png](https://github.com/arfath29/medusa-project/blob/main/Screenshots/Screenshot_5-4-2025_233550_ap-south-1.console.aws.amazon.com.jpeg))  
 *Response time and scaling metrics*
 
 ---
